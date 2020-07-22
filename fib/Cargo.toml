@@ -1,0 +1,6 @@
+[package]
+name = "fib"
+version = "0.1.0"
+authors = ["Sriram Raghunathan <rsriram7@visteon.com>"]
+
+[dependencies]
